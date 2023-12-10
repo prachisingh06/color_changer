@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height:100vh;
+    justify-content: center;
+    background-color:white;
+    text-transform: capitalize;
+    
+}
+.button{
+    height:20px;
+    width:80px;
+    border-color: black;
+    border-style: solid;  
+}
+#gray{
+    background-color: gray;
+}
+#pink{
+    background-color: pink;
+}
+#blue{
+    background-color: blue;
+
+}
+#yellow{
+    background-color: yellow;
+}
+#mediumorchid{
+    background-color: mediumorchid;
+}
+#blueviolet{
+    background-color: blueviolet;
+}
+#teal{
+    background-color: teal;
+}
